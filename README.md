@@ -73,7 +73,7 @@
 
 ## 🔥 Current Focus
 
-- ⚛️ **Building modern web apps** with React & Next.js
+- ⚛️ **Building modern web apps** with React & NextJs
 - 🧠 **Improving problem-solving** with Python & C++
 
 ---
